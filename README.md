@@ -1,2 +1,2 @@
 # video-time
- lidl watch2gether
+watch2gether like site
